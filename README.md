@@ -5,7 +5,9 @@ These scripts are based on the documentation: http://www.elektronx.de/tutorials/
 <br>
 Pictures and Video: https://goo.gl/photos/WBizCHs32YQfAHeS7
 <br>
+<br>
 Please configure the four GPIO ports the step motor is connected in the script: stepcontrol.py
 <br>
 high.py: right turn (temperature up)
+<br>
 low.py: left turn (temperature down)
